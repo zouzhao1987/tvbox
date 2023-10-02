@@ -1,0 +1,40 @@
+{
+    "urls": [
+        {
+            "url": "https://www.zrjedu.eu.org/line/myline/myline.json",
+            "name": "⚽CF部署线路"
+        },
+        {
+            "url": "https://www.zrjedu.eu.org/line/feimao/feimao.json",
+            "name": "🐱肥猫线路"
+        },
+        {
+            "url": "https://www.zrjedu.eu.org/line/yunxingriji/yunxingriji.json",
+            "name": "🌟星云日记"
+        },
+        {
+            "url": "https://www.zrjedu.eu.org/line/fongmi/fongmi.json",
+            "name": "🐝蜂蜜线路"
+        },
+        {
+            "url": "https://www.zrjedu.eu.org/line/xingchen/xingchen.json",
+            "name": "✨星辰线路"
+        },
+        {
+            "url": "https://www.zrjedu.eu.org/line/fty/fty.json",
+            "name": "🍚饭太硬线路"
+        },
+        {
+            "url": "https://www.zrjedu.eu.org/line/wuai/wuai.json",
+            "name": "💖吾爱线路"
+        },
+        {
+            "url": "https://www.zrjedu.eu.org/line/nf/nf.json",
+            "name": "💨南风线路"
+        },
+        {
+            "url": "https://www.zrjedu.eu.org/line/demo/demo.json",
+            "name": "💎小米线路"
+        }
+    ]
+}
